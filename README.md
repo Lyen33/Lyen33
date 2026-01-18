@@ -57,8 +57,3 @@ Me integro cómodamente en **metodologías ágiles** como *Scrum* y disfruto col
 ## 🚀 Objetivo
 Seguir desarrollando mis habilidades en proyectos reales, aportar valor a equipos de trabajo y crecer como profesional en el área de **desarrollo web fullstack**.  
 
----
-
-📫 **Contáctame:**  
-- [LinkedIn](https://www.linkedin.com) *(agrega tu enlace personalizado)*  
-- [Correo electrónico](mailto:tuemail@ejemplo.com)  
